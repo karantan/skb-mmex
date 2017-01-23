@@ -87,3 +87,11 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+
+# example file
+example.html
+
+# input and output
+input.html
+output.csv
