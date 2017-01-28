@@ -3,3 +3,4 @@ cerberus
 click
 isort
 ipdb
+pyyaml
